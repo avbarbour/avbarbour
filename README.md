@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avbarbour
 - 👀 I’m interested in enhancing my skills as a software developer and data scientist.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript. R, and Python.
 - 💞️ I’m looking to collaborate on relevant business intelligence, data analyst, data science projects. 
 - 📫 How to reach me ... here on GitHub, or email me. 
 
